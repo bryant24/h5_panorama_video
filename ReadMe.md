@@ -9,5 +9,7 @@ This project is for playing panorama video on html5 website including features b
   https://github.com/videojs/videojs-contrib-hls
 - RTMP,FLV not been supported by html5(flash support),so it's not support here
 
+##Demo
+- https://bryant24.github.io/h5_panorama_video/
 
 
